@@ -42,3 +42,8 @@ Autor: Tony David Mojica Guerrero
 Pseudocódigo 9: Calculadora Basica
 Descripción: El pseudocodigo consiste en poder aplicar operaciones basicas como lo son la suma, la resta, la multipliación y la divison.
 Autor: Maximiliano Ramírez
+
+
+Pseudocódigo 10: Contraseña.
+Descripción: Se ingresan números al azar hasta dar con el correcto el cual sera la contraseña.
+Autor: Arlet Jazmín Rodríguez Bibiano.
