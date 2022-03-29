@@ -1,8 +1,8 @@
 # Reto-Pseudocodigos-a-Lenguaje
 
-Pseudocódigo 1: Título
-Descripción: Lorem ipsum dolor...
-Autor: xxxxxx xxxxxxxx
+Pseudocódigo 1: Tiempo libre
+Descripción: Se trata de un interesante pseudocodigo de desicion que al seleccionar una opción te da una breve descripción de lo qué haces en tu tiempo libre 
+Autor: José Francisco Bernal paco
 
 
 Pseudocódigo 1: Título
