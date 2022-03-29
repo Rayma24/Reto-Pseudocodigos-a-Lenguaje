@@ -39,6 +39,6 @@ Descripción: saca tu promedio de 5 calificaciones y te dise si vas bien o neces
 Autor: Tony David Mojica Guerrero
 
 
-Pseudocódigo 1: Título
-Descripción: Lorem ipsum dolor...
-Autor: xxxxxx xxxxxxxx
+Pseudocódigo 9: Calculadora Basica
+Descripción: El pseudocodigo consiste en poder aplicar operaciones basicas como lo son la suma, la resta, la multipliación y la divison.
+Autor: Maximiliano Ramírez
