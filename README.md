@@ -29,9 +29,9 @@ Descripción: hacer una operacion con los diferentes tipos de operadores (+, -, 
 Autor: Luis Gabriel Castro Bornios
 
 
-Pseudocódigo 1: Título
-Descripción: Lorem ipsum dolor...
-Autor: xxxxxx xxxxxxxx
+Pseudocódigo 7: Suma de numeros
+Descripción:Suma de 4 numeros
+Autor: Ximena Lizette Meza Cosio
 
 
 Pseudocódigo 1: Título
