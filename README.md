@@ -34,6 +34,11 @@ Descripción:Suma de 4 numeros
 Autor: Ximena Lizette Meza Cosio
 
 
+Pseudocódigo 8: Título: Promedio de calificaciones
+Descripción: saca tu promedio de 5 calificaciones y te dise si vas bien o necesitas mejorar mas
+Autor: Tony David Mojica Guerrero
+
+
 Pseudocódigo 1: Título
 Descripción: Lorem ipsum dolor...
 Autor: xxxxxx xxxxxxxx
