@@ -23,4 +23,27 @@
 
 -------
 
+# Compila los retos realizados por los alumnos de 5to en:
+[OnlineGDB](https://www.onlinegdb.com/)
 
+
+-------
+
+
+| Pseudocódigo | Lenguaje de programación | Autor                  | RS |
+|:------------:|:------------------------:|:----------------------:|:--:|
+|              |                          | Kevin Lozada           |    |
+|              |                          | José Luis Estrada      |    |
+|              |                          | Carlos Martínez        |    |
+|              |                          | Irving Ramirez         |    |
+|              |                          | Rayma Muñoz            |    |
+|              |                          | Hamid Cuevas           |    |
+|              |                          | Carlos García          |    |
+|              |                          | Carlos Josué Hernández |    |
+|              |                          | Julio Velázquez        |    |
+|              |                          | Gabriel Garín          |    |
+
+
+-------
+
+Nick Fury: Kevin Luciano
