@@ -1,49 +1,26 @@
-# Reto-Pseudocodigos-a-Lenguaje
+# Reto de Pseudocódigos a Lenguaje de Programación
 
-Pseudocódigo 1: Tiempo libre
-Descripción: Se trata de un interesante pseudocodigo de desicion que al seleccionar una opción te da una breve descripción de lo qué haces en tu tiempo libre 
-Autor: José Francisco Bernal paco
+### Este repositorio forma parte de una actividad integradora entre alumnos de 2do cuatrimestre y 5to cuatrimestre de la carrera de Ingeniería de Software de la Universidad Interamericana para el Desarrollo campus Acapulco.
 
 
-Pseudocódigo 1: Título
-Descripción: Lorem ipsum dolor...
-Autor: xxxxxx xxxxxxxx
-
-Pseudocódigo 3: Título: Area de figuras geometricas
-Descripción: este pseudocodigo trata de sacar el area de figuras geometricas con la opcion de poder repetir el proceso.
-Autor: Tony David Mojica Guerrero
+![War](https://larepublica.pe/resizer/84AIukTkG7zhjnTFC1xEVJRf4Ns=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/RJIJUIELXJEKTHE26BX3CVGHDE.jpg)
 
 
-Pseudocódigo 4: a 3 cifras
-Descripción: en esste pseudocodigo debes de escribir un numero de 3 cifras partiendo desde el 100 hasta el 999
-Autor: Luis Gabriel Castro Bornios
+
+|Pseudocódigo | Descripción | Autor |
+|:-:|:-:|:-:|
+| Pseudocódigo 1: Tiempo libre | Se trata de un interesante pseudocodigo de desicion que al seleccionar una opción te da una breve descripción de lo qué haces en tu tiempo libre | José Francisco Bernal Paco |
+| Pseudocódigo 2: Título: Área de figuras geométricas | Este pseudocodigo trata de sacar el area de figuras geométricas con la opción de poder repetir el proceso. | Tony David Mojica Guerrero |
+| Pseudocódigo 3: A 3 cifras | En este pseudocódigo debes de escribir un numero de 3 cifras partiendo desde el 100 hasta el 999 | Luis Gabriel Castro Bornios |
+| Pseudocódigo 4: Meses | Debes de seleccionar un numero del 1 al 12 para saber el nombre del mes | Luis Gabriel Castro Bornios |
+| Pseudocódigo 5: A 3 cifras | Hacer una operacion con los diferentes tipos de operadores (+, -, *, /) | Luis Gabriel Castro Bornios |
+| Pseudocódigo 6: Suma de numeros | Suma de 4 numeros | Ximena Lizette Meza Cosio |
+| Pseudocódigo 7: Promedio de calificaciones | Saca tu promedio de 5 calificaciones y te dise si vas bien o necesitas mejorar más. | Tony David Mojica Guerrero |
+| Pseudocódigo 8: Calculadora Basica Descripción | El pseudocodigo consiste en poder aplicar operaciones basicas como lo son la suma, la resta, la multipliación y la divison. | Maximiliano Ramírez |
+| Pseudocódigo 9: Contraseña | Se ingresan números al azar hasta dar con el correcto el cual sera la contraseña | Arlet Jazmín Rodríguez Bibiano     |
 
 
-Pseudocódigo 5: meses
-Descripción: debes de seleccionar un numero del 1 al 12 para saber el nombre del mes
-Autor: Luis Gabriel Castro Bornios
+
+-------
 
 
-Pseudocódigo 6: a 3 cifras
-Descripción: hacer una operacion con los diferentes tipos de operadores (+, -, *, /)
-Autor: Luis Gabriel Castro Bornios
-
-
-Pseudocódigo 7: Suma de numeros
-Descripción:Suma de 4 numeros
-Autor: Ximena Lizette Meza Cosio
-
-
-Pseudocódigo 8: Título: Promedio de calificaciones
-Descripción: saca tu promedio de 5 calificaciones y te dise si vas bien o necesitas mejorar mas
-Autor: Tony David Mojica Guerrero
-
-
-Pseudocódigo 9: Calculadora Basica
-Descripción: El pseudocodigo consiste en poder aplicar operaciones basicas como lo son la suma, la resta, la multipliación y la divison.
-Autor: Maximiliano Ramírez
-
-
-Pseudocódigo 10: Contraseña.
-Descripción: Se ingresan números al azar hasta dar con el correcto el cual sera la contraseña.
-Autor: Arlet Jazmín Rodríguez Bibiano.
