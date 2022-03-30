@@ -35,9 +35,9 @@
 |              |                          | Kevin Lozada           |    |
 |              |                          | José Luis Estrada      |    |
 |              |                          | Carlos Martínez        |    |
-|              |                          | Irving Ramirez         |    |
-|              |                          | Rayma Muñoz            |    |
-|              |                          | Hamid Cuevas           |    |
+|              |                          | Irving Ramirez         |   |
+| 4 | C++ | Rayma Muñoz Solis | fb:Rayma Muñoz Solis. inst: raymasolis |
+|              |                          | Hamid Cuevas           |    
 |              |                          | Carlos García          |    |
 |              |                          | Carlos Josué Hernández |    |
 |              |                          | Julio Velázquez        |    |
